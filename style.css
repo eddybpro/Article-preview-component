@@ -154,7 +154,7 @@ footer a{
     main{
         grid-template-areas: 'img-box'
         'txt-box';
-        width: 95%;
+        width: 90%;
         margin: 1rem;
     }
 
